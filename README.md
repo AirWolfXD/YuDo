@@ -14,3 +14,6 @@ Download The Project By Clicking *Clone Or Download-->Download ZIP*
 Open Android Studio And Go To *File-->Open*                           
 <img src="https://user-images.githubusercontent.com/24327117/38764667-4a31de60-3fee-11e8-9df3-4019de83303a.JPG" width="45%">               
 You Should Now Have The Project Open In Android Studio.
+
+Inspired By AndroStock's Task App Tutorial:
+https://www.androstock.com/tutorials/create-a-todo-task-app-on-android-android-studio.html
